@@ -24,7 +24,9 @@ Customers:
 ## How to Run
 
 ### Run Simulation
+```
 python main.py
+```
 
 ### Run Tests
 ```
