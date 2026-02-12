@@ -36,8 +36,9 @@ python -m unittest discover tests
 - Dequeue: O(1)
 - Overall: O(n)
 
+## Space Complexity
+- O(n)
+
 ---
 
 ## Youtube
-## Space Complexity
-- O(n)
