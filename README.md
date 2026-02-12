@@ -27,8 +27,9 @@ Customers:
 python main.py
 
 ### Run Tests
+```
 python -m unittest discover tests
-
+```
 ---
 
 ## Time Complexity
